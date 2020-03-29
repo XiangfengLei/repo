@@ -7,7 +7,7 @@ REPO_URL = 'https://github.com/XiangfengLei/repo.git'
 # os.environ.get('REPO_URL', None)
 if not REPO_URL:
   REPO_URL = 'https://github.com/XiangfengLei/repo.git'
-REPO_REV = 'stable'
+REPO_REV = 'master'
 
 # Copyright (C) 2008 Google Inc.
 #
