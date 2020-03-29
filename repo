@@ -3,10 +3,10 @@
 # repo default configuration
 #
 import os
-REPO_URL = 'https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
+REPO_URL = 'https://github.com/XiangfengLei/repo.git'
 # os.environ.get('REPO_URL', None)
 if not REPO_URL:
-  REPO_URL = 'https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
+  REPO_URL = 'https://github.com/XiangfengLei/repo.git'
 REPO_REV = 'stable'
 
 # Copyright (C) 2008 Google Inc.
